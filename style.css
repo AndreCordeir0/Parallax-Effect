@@ -1,0 +1,177 @@
+body{
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+div{
+    display: block;
+    
+}
+
+.parallax{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    content: "";
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 900px;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.70;
+    margin: 0;
+    padding: 0;
+    
+
+    
+
+}
+.content{
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 27px;
+   letter-spacing: 10px;
+   font-family: inherit;
+}
+.border {
+    padding: 20px;
+    background-color: #111;
+    color: #fff;
+    opacity: 0.80;
+}
+.content2{
+    background-color:#f4f4f4;
+    margin: 0;
+    margin-top: 0;
+    display: block;
+    padding: 50px 80px;
+    justify-content: center;
+    text-align: center;
+   color: #666;
+}
+.content2 h2{
+    font-size: 30px;
+     
+}
+.content2 p{
+    font-size: 20px;
+}
+.parallax2{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+    content: "";
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.70;
+    margin: 0;
+    padding: 0;
+}
+.content3{
+    position: absolute;
+    width: 100%;
+    top: 215%;
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 27px;
+   letter-spacing: 10px;
+   
+   color: white;
+}
+.content4{
+    background-color:#282e34;
+    margin: 0;
+    margin-top: 0;
+    display: block;
+    padding: 50px 80px;
+    justify-content: center;
+    text-align: center;
+   color: #ddd;
+}
+.content4 h2{
+    font-size: 30px;
+     
+}
+.content4 p{
+    font-size: 20px;
+}
+
+.parallax3{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
+    content: "";
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.70;
+    margin: 0;
+    padding: 0;
+}
+.content5{
+    position: absolute;
+    width: 100%;
+    top: 330%;
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 27px;
+   letter-spacing: 10px;
+   
+   color: white;
+}
+.content6{
+    background-color:#282e34;
+    margin: 0;
+    margin-top: 0;
+    display: block;
+    padding: 50px 80px;
+    justify-content: center;
+    text-align: center;
+   color: #ddd;
+}
+.content6 h2{
+    font-size: 30px;
+     
+}
+.content6 p{
+    font-size: 20px;
+}
+.parallax4{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    content: "";
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 658px;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.70;
+    margin: 0;
+    padding: 0;
+    
+
+    
+
+}
+
+.content7{
+    position: absolute;
+    width: 100%;
+    top: 460%;
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 27px;
+   letter-spacing: 10px;
+   font-family: inherit;
+}
+.border {
+    padding: 20px;
+    background-color: #111;
+    color: #fff;
+    opacity: 0.80;
+}
